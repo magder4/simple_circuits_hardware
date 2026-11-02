@@ -4167,7 +4167,7 @@
 		)
 		(uuid "c6153f9e-e1ac-4d9d-9805-bc3a4ca08fb2")
 	)
-	(text "LOW PASS FILTER FOR ADC VOLTATGES"
+	(text "LOW PASS FILTER FOR ADC VOLTAGES"
 		(exclude_from_sim no)
 		(at 109.22 144.272 0)
 		(effects
