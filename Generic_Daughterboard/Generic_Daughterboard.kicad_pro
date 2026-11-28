@@ -528,9 +528,9 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Gerbers/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Generic_Daughterboard.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -779,7 +779,7 @@
         "uuid": "475a90b7-c08f-4fca-805c-1f1fe62d2eef"
       }
     ],
-    "used_designators": "#PWR1-22,C1-7,D1-2,FID1-6,H1-8,J1-6,R1-9,RV1,S1,SW1,U1",
+    "used_designators": "#PWR1-25,C1-7,D1-2,FID1-6,H1-8,J1-6,R1-11,RV1,S1,SW1,U1",
     "variants": []
   },
   "sheets": [
